@@ -1,6 +1,6 @@
 # LabDesk
 
-LabDesk is a native Python desktop workbench for oscilloscope-style waveform acquisition, live preview, export, and report-ready image generation. It runs with a built-in simulated backend and includes an experimental SCPI / pyvisa backend for real instruments.
+LabDesk is a native Python desktop workbench for oscilloscope-style waveform acquisition, live preview, export,and report-ready image generation. It runs with a built-in simulated backend and includes an experimental SCPI / pyvisa backend for real instruments.
 
 ![LabDesk](assets/logo.jpg)
 
