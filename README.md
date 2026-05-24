@@ -19,13 +19,6 @@ LabDesk is a native Python desktop workbench for oscilloscope-style waveform acq
 - INI-based configuration persistence.
 - PyInstaller packaging config for Windows builds.
 
-## Screenshots
-
-Add a few app screenshots here before publishing the repository. A good set is:
-- main dashboard
-- simulated waveform preview
-- export panel
-- console tab
 
 ## Quick Start
 
